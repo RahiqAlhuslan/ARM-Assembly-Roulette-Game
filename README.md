@@ -6,3 +6,5 @@ illuminated LED determines the game outcome—if it matches the player's chosen 
 on the 7-segment displays; otherwise, "END" appears. The corresponding LED number (0-9) is shown on
 the HEX3 display. This project demonstrates key embedded systems programming concepts including
 memory-mapped I/O, bit-level operations, and direct hardware control.
+
+![Copy of Untitled Design](https://github.com/user-attachments/assets/09494adc-14b8-4815-84e3-2a1fdbfd8aaa)
